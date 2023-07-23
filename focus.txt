@@ -1,0 +1,14 @@
+p  = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141
+r  = 0x
+s1 = 0x
+s2 = 0x
+z1 = 0x
+z2 = 0x
+
+
+K = GF(p)
+K((z1*s2 - z2*s1)/(r*(s1-s2)))
+
+
+https://brainwalletx.github.io/#chains
+
