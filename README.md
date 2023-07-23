@@ -41,3 +41,6 @@ z2 = 0x17b0f41c8c337ac1e18c98759e83a8cccbc368dd9d89e5f03cb633c265fd0ddc
 
 ============================================================================
 
+
+Donations : bc1q962duatv26hzw080uxu65damn06l5pgsdnx6lt
+
