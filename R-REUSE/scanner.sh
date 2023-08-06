@@ -36,52 +36,52 @@ for run in {1..1000}; do
     chmod +x get-raw.sh
     sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+     sleep 6
      python3 chainaddr2.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+     sleep 6
      python3 chainaddr3.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+     sleep 6
      python3 chainaddr4.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-       
+      sleep 6 
      python3 chainaddr5.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+     sleep 6
      python3 chainaddr6.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+     sleep 6
      python3 chainaddr7.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-          
+      sleep 6    
      python3 chainaddr8.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+     sleep 6
      python3 chainaddr9.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-     
+      sleep 6
       python3 chainaddr10.py
      chmod +x get-raw.sh
      sed -i -e 's/\r$//' get-raw.sh
      ./get-raw.sh
-         
+      sleep 6  
 
 
 #================================================
